@@ -1,4 +1,4 @@
-package arrayDemo;
+package control_flowStatement;
 
 public class Ifcontinues_statment {
 	public static void main(String []args) {

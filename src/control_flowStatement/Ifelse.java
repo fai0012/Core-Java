@@ -1,4 +1,4 @@
-package arrayDemo;
+package control_flowStatement;
 
 public class Ifelse {
 	public static void main (String []args) {
