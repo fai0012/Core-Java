@@ -4,8 +4,9 @@ import java.util.Scanner;
 public class ReverseStrng {
     public static void main(String[] args) {
        
-    	System.out.println("enter a sentence which you want a reverse");
+    	
     	Scanner sc = new Scanner(System.in);
+    	System.out.println("enter a sentence which you want a reverse");
     	String s = sc.nextLine();
        
         
